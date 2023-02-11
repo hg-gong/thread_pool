@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/fanyuanlai/Library/CloudStorage/OneDrive-CUHK-Shenzhen/fylai/thread_pool_simple/main.cpp" "CMakeFiles/thread_pool.dir/main.cpp.o" "gcc" "CMakeFiles/thread_pool.dir/main.cpp.o.d"
+  "/Users/fanyuanlai/Library/CloudStorage/OneDrive-CUHK-Shenzhen/fylai/thread_pool_simple/main.cpp" "CMakeFiles/client.dir/main.cpp.o" "gcc" "CMakeFiles/client.dir/main.cpp.o.d"
   )
 
 # Targets to which this target links.
